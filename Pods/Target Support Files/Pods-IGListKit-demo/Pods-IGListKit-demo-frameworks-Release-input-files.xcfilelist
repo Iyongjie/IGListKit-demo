@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-IGListKit-demo/Pods-IGListKit-demo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IGListKit/IGListKit.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/YYKit/YYKit.framework
